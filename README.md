@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bmwinyoglee
 - 👀 I’m interested in computer programmiing
-- 🌱 I’m currently learning Software Engineering at ALX
+- 🌱 I’m currently Having fun.
 - 💞️ I’m looking to collaborate on any Laravel project
 - 📫 How to reach me -> bmwinyoglee@gmail.com
 
